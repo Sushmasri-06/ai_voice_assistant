@@ -73,6 +73,7 @@ Say “Hey Assistant” to activate it, then try commands like:
 
 “Exit”
 
+
 📌 Notes:
 
 Ensure your microphone works and is not muted
@@ -80,6 +81,19 @@ Ensure your microphone works and is not muted
 Tested on macOS with Python 3.9+
 
 You can expand it with more features like Wikipedia search, reminder setting, or even Spotify control!
+
+say “Hey Assistant” before every command. That’s because the assistant is listening for the wake word "hey assistant" to know when you're actually giving a command.
+
+So yes — even to exit, you need to say:
+
+“Hey Assistant”
+“Exit”
+
+Why it's built this way-
+  *It helps avoid reacting to random background noise or unintended speech.
+
+  *It mimics how real assistants like Alexa or Siri work: they wait for a wake word before processing.
+
 
 
 👩‍💻 Author
