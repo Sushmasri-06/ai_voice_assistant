@@ -98,4 +98,4 @@ Why it's built this way-
 
 👩‍💻 Author
 Sushma Sri
-🔗 GitHub
+🔗 [GitHub](https://github.com/Sushmasri-06/ai_voice_assistant)
